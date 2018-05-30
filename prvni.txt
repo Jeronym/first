@@ -1,0 +1,1 @@
+prvni soubor, ktery chci uploadovat na GitHub
